@@ -1,7 +1,7 @@
 # CAVE - (C)ontrollable (A)uthorship (V)erification (E)xplanations
 This is the official code and associated datasets for the paper titled
 
->[CAVE: Controllable Authorship Verification Explanations. *Sahana Ramnath, Kartik Pandey, Elizabeth Boschee, Xiang Ren.*]()
+>[CAVE: Controllable Authorship Verification Explanations. *Sahana Ramnath, Kartik Pandey, Elizabeth Boschee, Xiang Ren.*](https://arxiv.org/abs/2406.16672)
 
 ## Dataset 
 We provide our train/val/test datasplits in folder ``data/[dataset-name]``. The ``instruct-llama-3-8b`` and ``gpt-4-turbo`` subfolders have the sampled test-set responses from [Llama-3-8B Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) and GPT-4-Turbo respectively. 
