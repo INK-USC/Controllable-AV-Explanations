@@ -1,3 +1,4 @@
+# Llama-3 training code derived and modified from https://github.com/shallinan1/StyleRemix
 import os
 os.environ['TRANSFORMERS_CACHE'] = '../cache/'
 os.environ['HF_HOME'] = '../cache/'
