@@ -1,7 +1,7 @@
 # CAVE - (C)ontrollable (A)uthorship (V)erification (E)xplanations
 This is the official code and associated datasets for the paper titled
 
->[CAVE: Controllable Authorship Verification Explanations. *Sahana Ramnath, Kartik Pandey, Elizabeth Boschee, Xiang Ren.*](https://arxiv.org/abs/2406.16672)
+>[CAVE: Controllable Authorship Verification Explanations. *Sahana Ramnath, Kartik Pandey, Elizabeth Boschee, Xiang Ren.*](https://aclanthology.org/2025.naacl-long.451/)
 
 For any questions, please contact Sahana Ramnath [sramnath@usc.edu].
 
